@@ -1,0 +1,7 @@
+# تجاهل ملف الجلسة
+/data/my_account.session
+
+# تجاهل ملفات بيئات Python الافتراضية
+venv/
+__pycache__/
+*.pyc
